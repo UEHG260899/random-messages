@@ -1,18 +1,29 @@
 {
   "name": "random-messages-ue",
   "version": "1.0.0",
-  "description": "random de mensajes",
+  "description": "A package that just prints on console some random Strings taken from an array.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "javascript"
+    "javascript",
+    "node",
+    "npm",
+    "strings"
   ],
   "author": "Uriel Hernandez <urielenrique99@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UEHG260899/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UEHG260899/random-messages/issues"
+  },
+  "homepage": "https://github.com/UEHG260899/random-messages#readme"
 }
