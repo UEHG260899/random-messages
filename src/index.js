@@ -3,7 +3,9 @@ const messages = [
     "ojwojdowjd",
     "dojowow",
     "dmwodwodwq",
-    "cmofne"
+    "cmofne",
+    "Hello",
+    "jiuwpqs"
 ];
 
 const randomMsg = () => {
